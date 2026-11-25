@@ -1,0 +1,26 @@
+{
+  "name": "grids-apps-task",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahafAbosefen/grids-apps-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahafAbosefen/grids-apps-task/issues"
+  },
+  "homepage": "https://github.com/RahafAbosefen/grids-apps-task#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.10",
+    "typescript": "^7.0.2",
+    "zod": "^4.6.7"
+  }
+}
